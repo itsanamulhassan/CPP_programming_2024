@@ -1,0 +1,1 @@
+__glibcxx_long_double_has_denorm_loss

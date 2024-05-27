@@ -1,0 +1,1 @@
+std::cout << n << " is my favorite number \n";
